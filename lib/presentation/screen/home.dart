@@ -4,8 +4,8 @@ import 'package:taskify/config/show_notification.dart';
 import 'package:taskify/domains/entity_task.dart';
 import 'package:taskify/presentation/provider/provider_bd.dart';
 import 'package:taskify/presentation/provider/provider_task.dart';
-import 'package:taskify/presentation/screen/widget/taks/modal_sheet.dart';
-import 'package:taskify/presentation/screen/widget/taks_item.dart';
+import 'package:taskify/presentation/screen/widget/modal_sheet.dart';
+import 'package:taskify/presentation/screen/widget/taks/taks_item.dart';
 import 'package:uuid/uuid.dart';
 
 class HomeScreen extends StatefulWidget {
